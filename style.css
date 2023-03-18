@@ -1,0 +1,5 @@
+div.zoomed {
+    zoom: 3;
+    -moz-transform: scale(3);
+    -moz-transform-origin: 0 0;
+}
